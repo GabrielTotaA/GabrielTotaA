@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Olá, eu sou o Gabriel
 
-<!--
-**GabrielTotaA/GabrielTotaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor Java em transição para backend, com foco em construção de APIs e sistemas orientados a objetos.
+Atualmente estudando Java, JDBC e fundamentos de backend, buscando minha primeira oportunidade como Java Jr.
 
-Here are some ideas to get you started:
+### 🚀 Tecnologias
+- Java (POO, Streams, Optional, Exceptions)
+- Python (FastAPI, Flask, Numpy, Pandas)
+- SQL / MariaDB
+- Git & GitHub
+- Java JDBC
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Atualmente estudando
+- JDBC e persistência com banco de dados
+- Arquitetura backend em Java
+- Preparação para Spring Boot
+
+### 📫 Contato
+- LinkedIn: [https://linkedin.com/in/seu-link](https://www.linkedin.com/in/gabriel-tota-2218a018a/)
+- Email: gabrielmtota00@gmail.com
+
